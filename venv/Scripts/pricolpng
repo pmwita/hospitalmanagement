@@ -1,4 +1,4 @@
-#!C:\xampp8240\htdocs\HospitalManagement_Django\venv\Scripts\python.exe
+#!C:\xampp8240\htdocs\hospitalmanagement\venv\Scripts\python.exe
 
 # http://www.python.org/doc/2.4.4/lib/module-itertools.html
 import itertools

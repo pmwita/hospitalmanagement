@@ -1,4 +1,13 @@
 xhtml2pdf
-Django==3.0.5
+Django
 django-widget-tweaks==1.4.8
 sqlparse==0.3.1
+asgiref
+dj_database_url
+django-allauth
+gunicorn
+oauthlib
+Pillow
+psycopg2
+psycopg2-binary
+whitenoise
